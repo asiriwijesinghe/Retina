@@ -1,0 +1,56 @@
+Medical Image Processing Slide Share: http://www.slideshare.net/pantechsolutions/medical-image-processing
+Parallel Computing in Matlab: http://www.mathworks.in/products/parallel-computing/tutorials.html
+Morphological Operations: http://www.mathworks.in/help/images/morphological-filtering.html
+Morphology Fundamentals: Dilation and Erosion: http://www.mathworks.in/help/images/morphology-fundamentals-dilation-and-erosion.html#f18-20972
+Toolox Wavelets - A Toolbox for Multiscale Signal and Image Processing: http://www.mathworks.com/matlabcentral/fileexchange/5104-toolbox-wavelets/content/toolbox_wavelets/html/content.html
+Getting started with Jacket for MATLAB and GPUs: http://www.youtube.com/watch?v=uB2FPgJ-z5Q
+Functions in Image Processing Toolbox: http://www.mathworks.in/help/images/functionlist.html
+
+
+http://www.mathworks.in/discovery/pattern-recognition.html
+http://www.mathworks.in/discovery/cluster-analysis.html
+http://www.mathworks.in/help/stats/examples/cluster-analysis.html
+http://www.mathworks.in/help/stats/supervised-learning-machine-learning-workflow-and-algorithms.html
+http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0088061
+http://www.hindawi.com/journals/cin/2011/749054/
+http://www.mathworks.com/matlabcentral/answers/85543-how-to-find-the-width-of-edges-in-matlab
+http://www.mathworks.com/matlabcentral/answers/88645-average-width-of-lines
+
+Fast Retinal Vessel Detection and Measurement Using Wavelets and Edge Location Refinement:
+http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0032435
+
+Exaggerate the Gaps Between Objects (Tophat and Bottomhat)
+http://www-rohan.sdsu.edu/doc/matlab/toolbox/images/morph20.html
+
+Retinal Vessel Detection by Gabor Transform and Machine Learning, a Tutorial
+http://imageprocessingblog.com/retinal-vessel-detection-by-gabor-transform-and-machine-learning-a-tutorial/
+
+Image and Multidimensional Signal Processing
+http://www.youtube.com/playlist?list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv
+
+MATLAB GPU Computing Support for NVIDIA CUDA-Enabled GPUs
+http://www.mathworks.in/discovery/matlab-gpu.html
+
+Run CUDA or PTX Code on GPU
+http://www.mathworks.in/help/distcomp/run-cuda-or-ptx-code-on-gpu.html
+
+KMeans Segmentation - MEX
+http://www.mathworks.com/matlabcentral/fileexchange/27969-kmeans-segmentation-mex
+
+Adaptive kmeans Clustering for Color and Gray Image.
+http://www.mathworks.com/matlabcentral/fileexchange/45057-adaptive-kmeans-clustering-for-color-and-gray-image
+
+Biological Image Processing.
+http://www.cacr.caltech.edu/~cunha/bi199/four.html
+
+Color-Based Segmentation Using K-Means Clustering.
+http://www.mathworks.in/products/demos/image/color_seg_k/ipexhistology.html
+
+dsr@ucsc.lk
+Abnormality detection
+junction detection
+Nist
+Other Context finding
+
+3380
+123
